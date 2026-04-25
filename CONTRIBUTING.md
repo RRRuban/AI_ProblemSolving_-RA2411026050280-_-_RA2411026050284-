@@ -4,10 +4,10 @@ Thank you for your interest in contributing to this project! 🎉
 
 ## 👥 Project Contributors
 
-| Name | Register Number | GitHub |
+| Name | Register Number | Role |
 |------|----------------|--------|
-| **Shree Shanth VJ** | RA2411026050283 | [@shreeshanth](https://github.com/shreeshanth) |
-| **Somas Kandan J** | RA2411026050285 | [@somaskandan](https://github.com/somaskandan) |
+| **Jaya Ruban P** | RA2411026050280 | Student/Developer |
+| **Aswin R** | RA2411026050288 | Student/Developer |
 
 ---
 
