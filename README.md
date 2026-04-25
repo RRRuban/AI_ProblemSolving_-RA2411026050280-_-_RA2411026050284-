@@ -22,7 +22,8 @@ This project implements two classic AI problem-solving approaches as interactive
 
 Both games feature a **premium dark-themed interactive GUI** built with HTML/CSS/JavaScript and a **Python Flask backend** implementing the AI algorithms.
 
-![Home Page](screenshots/home_page.png)
+![Home Page](<img width="1298" height="882" alt="home_page" src="https://github.com/user-attachments/assets/039d7baa-1af4-49da-bbf4-7eacb8690270" />
+)
 
 ---
 
