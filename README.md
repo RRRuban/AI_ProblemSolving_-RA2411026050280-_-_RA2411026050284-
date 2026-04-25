@@ -1,3 +1,8 @@
+## Name : Jaya Ruban P
+## Reg NO : RA2411026050280
+## Name : Aswin R
+## Reg NO : RA2411026050288
+
 ## Introduction
 AI Assignment is to enable students to apply Artifical Intelligence problem-solving techniques through pratcal implementation and collaborative development using GitHub For
 Problem 1: Interactive Tic Tac Toe Game 
@@ -27,8 +32,7 @@ This project implements two classic AI problem-solving approaches as interactive
 
 Both games feature a **premium dark-themed interactive GUI** built with HTML/CSS/JavaScript and a **Python Flask backend** implementing the AI algorithms.
 
-![Home Page](<img width="1137" height="714" alt="Screenshot 2026-04-25 230459" src="https://github.com/user-attachments/assets/7ce89e84-a0ce-4954-be78-ed156ea4c5f4" />
-)
+
 
 ---
 
@@ -60,11 +64,7 @@ A gaming company wants to create an AI opponent for a web-based Tic-Tac-Toe game
 - **Move History** — Tracks all moves with per-move analytics
 - **Cumulative Stats** — Total nodes explored across all moves
 
-### Sample Output — Tic-Tac-Toe
 
-![Tic-Tac-Toe Mode Selection](screenshots/tictactoe_mode_select.png)
-
-![Tic-Tac-Toe Gameplay with AI Analytics](screenshots/tictactoe_gameplay.png)
 
 #### Algorithm Comparison (Sample Move)
 
@@ -116,13 +116,8 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 - **Progress Tracker** — Shows cells filled vs remaining
 - **Puzzle Generation** — Generates randomized easy-level puzzles with unique solutions
 
-### Sample Output — Sudoku
 
-![Sudoku Puzzle](screenshots/sudoku_puzzle.png)
-
-![Sudoku Solved by CSP](screenshots/sudoku_solved.png)
-
-#### CSP Solver Statistics (Sample)
+#### CSP Solver Statistics (Sample Move)
 
 | Metric | Value |
 |--------|-------|
@@ -246,8 +241,8 @@ http://localhost:5000
 
 | Name | Register Number | Role |
 |------|----------------|------|
-| **Jaya Ruban P** | RA2411026050280 | Developer | Student
-| **Niwaes M** | RA2411026050284 | Developer | Student
+| **Jaya Ruban P** | RA2411026050280 | Student/Developer | 
+| **Aswin R** | RA2411026050288 | Student/Developer | 
 
 ---
 
