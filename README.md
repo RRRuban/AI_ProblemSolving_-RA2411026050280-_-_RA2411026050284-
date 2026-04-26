@@ -58,6 +58,8 @@ A gaming company wants to create an AI opponent for a web-based Tic-Tac-Toe game
 - **Time Complexity:** O(b^(d/2)) in the best case — explores roughly the **square root** of nodes compared to standard Minimax
 - **Optimality:** Same optimal result as Minimax, but significantly faster
 
+## Interface:![image alt](https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-/blob/e8cff207e76d10520a5d391db08832f9998ffe72/tictactoe_mode_select.png)
+
 ### Features
 - **Solo Mode** — Play against the unbeatable AI
 - **Multiplayer Mode** — Two players on the same device
